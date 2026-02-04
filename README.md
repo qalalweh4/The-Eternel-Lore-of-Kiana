@@ -1,4 +1,4 @@
-# Chimera CTF – Full Walkthrough
+# The Eternel Lore of Kiana CTF – Full Walkthrough
 
 This walkthrough covers the complete investigation from initial alert to final data exfiltration, showing how all three flags were found using Kibana/Elastic. The challenge simulates a realistic DFIR/SOC investigation involving LFI, secret leakage, attempted RCE, and DNS tunneling.
 
