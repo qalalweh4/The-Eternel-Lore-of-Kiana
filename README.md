@@ -147,9 +147,7 @@ Decode the full string using Base32 (CyberChef → From Base32).
 ## 🏁 Final Answer
 
 ```
-FLAG{1st_FL@G_PATH_2_PWND}
-+FLAG{2nd_FL@G_C0NF1G_L34K_L34DS_2_RCE}
-+FLAG{3rd_FL@G_DNS_TUNN3L_MAST3RY}
+FLAG{1st_FL@G_PATH_2_PWND}+FLAG{2nd_FL@G_C0NF1G_L34K_L34DS_2_RCE}+FLAG{3rd_FL@G_DNS_TUNN3L_MAST3RY}
 ```
 
 ---
